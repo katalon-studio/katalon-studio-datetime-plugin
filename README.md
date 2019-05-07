@@ -1,4 +1,4 @@
-# Katalon Studio Applitools Plugin
+# Katalon Studio DateTimeUtility Plugin
 
 ## Develop
 
