@@ -1,0 +1,17 @@
+.gradle
+
+bin
+
+Data Files/temp
+
+Drivers/*.jar
+
+Reports
+
+.classpath
+
+.project
+
+.DS_Store
+
+settings/external/com.kms.katalon.keyword.Applitools-Keywords.properties
