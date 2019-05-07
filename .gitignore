@@ -1,5 +1,7 @@
 .gradle
 
+build
+
 bin
 
 Data Files/temp
